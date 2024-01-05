@@ -3,3 +3,5 @@ console.log(penjumlahan(1, 2));
 
 const pengurangan = (a, b) => a - b;
 console.log(pengurangan(4 - 2));
+
+console.log(pengurangan(5-1))
